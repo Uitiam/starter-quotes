@@ -11,3 +11,5 @@ Changelog:
  - Maitiu: Added Calvin Quote along with profile picture.
  - Added what to quotes
  - Merged Calvin quotes update
+ - Maitiu: added random function in welcom controller
+
